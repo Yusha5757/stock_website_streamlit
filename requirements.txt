@@ -1,7 +1,8 @@
 streamlit
 yfinance
 pandas
-plotly.graph_objs
+plotly
 darts
-darts.models
+requests
 datetime
+numpy
